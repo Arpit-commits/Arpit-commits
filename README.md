@@ -154,9 +154,9 @@ _2019 – 2022_
 
 ## 🎓 Education
 
-🎓 Graduate Certificate — Cybersecurity & Threat Management  **Seneca Polytechnic** (3.9 GPA)
-🎓 Graduate Certificate — Cloud Architecture & Administration  **Seneca Polytechnic** (3.9 GPA)
-🎓 Bachelor of Engineering — Electronics & Communication
+- 🎓 Graduate Certificate — Cybersecurity & Threat Management  **Seneca Polytechnic** (3.9 GPA)
+- 🎓 Graduate Certificate — Cloud Architecture & Administration  **Seneca Polytechnic** (3.9 GPA)
+- 🎓 Bachelor of Engineering — Electronics & Communication
 
 ---
 
